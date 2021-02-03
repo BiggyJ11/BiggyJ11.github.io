@@ -1,0 +1,36 @@
+/* Global */
+
+html{
+    font-family: Verdana;
+    color: white;
+    background-color: black;
+}
+
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/*  Header */
+
+header h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+header p{
+    text-align: center;
+}
+
+
+
+/*  Main */
+
+
+/*  section (Travel GUIDE)*/
+
+
+/*  section (IPHONE/ANDROID*/
+
+
+/*  Footer */
