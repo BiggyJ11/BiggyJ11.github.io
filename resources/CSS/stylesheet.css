@@ -40,9 +40,6 @@ header h1 {
 
 /*  Section about mobile accessability*/
 
-.mobile img{
-    position: relative down 5px;
-}
 
 .mobile h1{
     font-weight: 300;
@@ -50,3 +47,11 @@ header h1 {
 }
 
 /*  Footer to include copyright */
+
+footer p{
+    color: gray;
+    text-align: right;
+
+/*  typing: &#169; produces the copyright symbol */
+
+}
