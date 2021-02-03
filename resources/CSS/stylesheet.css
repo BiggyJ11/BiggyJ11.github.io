@@ -23,9 +23,20 @@ header h1 {
 
 /*  Main body, to host iphone playing mp4 */
 
+        /* No styling required*/
+
 
 /*  Section with info about application */
 
+.travelGuide h1{
+    font-weight: 300;
+    font-size: 42;
+}
+
+.travelGuide p{
+    font-size: 21px;
+    color: gray;
+}
 
 /*  Section about mobile accessability*/
 
