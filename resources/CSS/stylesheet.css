@@ -30,7 +30,7 @@ header h1 {
 
 .travelGuide h1{
     font-weight: 300;
-    font-size: 42;
+    font-size: 42px;
 }
 
 .travelGuide p{
@@ -40,5 +40,13 @@ header h1 {
 
 /*  Section about mobile accessability*/
 
+.mobile img{
+    position: relative down 5px;
+}
+
+.mobile h1{
+    font-weight: 300;
+    font-size: 42px;
+}
 
 /*  Footer to include copyright */
